@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "248032627082",
+    "firebase_url": "https://inner-magpie-231907.firebaseio.com",
+    "project_id": "inner-magpie-231907",
+    "storage_bucket": "inner-magpie-231907.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248032627082:android:524da63fd67e9e76",
+        "android_client_info": {
+          "package_name": "com.quinkuota.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248032627082-uuda3ipefe8pch19bvgbeo8dtmbp3k92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbWChUKheIRUx5wZFepJqdqLlEj7l-6Rs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
